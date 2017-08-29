@@ -25,7 +25,7 @@ SECRET_KEY = '@v2vk*pxz8+xvi8$&ag&n3d=h_((nu15j#-t#xa=liaeo+g!^1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cryptic-thicket-18096.herokuapp.com']
 
 
 # Application definition
