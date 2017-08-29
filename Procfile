@@ -1,1 +1,1 @@
-web: sh -c "cd MyFirstHerokuProject && unicorn MyFirstHerokuProject.wsgi"
+web: sh -c "unicorn MyFirstHerokuProject.wsgi"
